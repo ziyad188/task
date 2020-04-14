@@ -1,0 +1,112 @@
+html,body{
+  width: 100%;
+   height: 100%;
+   margin: 0px;
+   padding: 0px;
+   overflow-x: hidden;
+   font-family: 'Roboto', sans-serif;
+
+}
+.myButton{
+background-color: Transparent;
+border-radius:15px;
+border:2px solid #8a0b6c;
+display:inline-block;
+cursor:pointer;
+color: #8a0b6c;
+font-family:Arial;
+font-size:15px;
+padding: 10px 20px;
+margin-left: 10px;
+margin-right: 15px;
+text-shadow:0px 1px 0px #2f6627;
+
+}
+.myButton:hover {
+background-color:#5c0e41;
+color: white;
+text-decoration: none;
+}
+.top-section{
+  padding-top: 30px;
+  padding-left: 250px;
+}
+.button-top{
+  padding-top: 100px;
+}
+.visit-us{
+  color: white;
+  text-align: center;
+  line-height: 2;
+  position: relative;
+  right: 300px;
+  top: 100px;
+}
+.contact{
+  padding-left: 700px;
+  padding-right: 200px;
+  position: relative;
+  bottom: 90px;
+}
+.heading-contact{
+  position: relative;
+  left: 700px;
+  color: white;
+  bottom: 100px;
+  font-size: 30px;
+}
+.visit{
+  font-size: 30px;
+}
+.form-contact{
+  border-radius: 10px;
+  padding-left: 0;
+outline: none;
+border: 2px solid white;
+width: 300px;
+height: 40px;
+}
+.form-contact:hover{
+  outline: none;
+  border: 2px solid grey;
+}
+.label-edit{
+  color: white;
+  line-height: 2;
+}
+.submit-btn{
+	background-color:#610945;
+	border-radius:28px;
+	display:inline-block;
+	cursor: pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:14px 36px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+   margin: 60px 220px 60px 220px;
+font-weight: normal;
+border: none;
+outline: none;
+
+
+}
+.submit-btn:hover{
+  color: white;
+  text-decoration: none;
+}
+.box{
+  margin-left: 30px;
+  width: 350px;
+  height: 250px;
+}
+.box-text{
+  margin-left: 30px;
+}
+.map-section{
+  position: relative;
+  bottom: 350px;
+  left: 250px;
+  height: 0;
+}
